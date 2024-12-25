@@ -34,12 +34,12 @@ Home.html
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Home - THE SPARKLE</title>
-  <!-- Bootstrap CSS -->
+  
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
 
-  <!-- Navbar -->
+  
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand" href="#">THE SPARKLE</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -72,7 +72,7 @@ Home.html
     </div>
   </nav>
 
-  <!-- Page Content -->
+  
   <div class="container mt-5">
     <div class="row">
       <div class="col-md-8">
@@ -91,12 +91,12 @@ Home.html
   <body background="bg.jpeg" style="background-repeat: no-repeat; background-size: cover;">
 
 
-  <!-- Footer -->
+
   <footer class="bg-dark text-white text-center py-4 mt-3">
     <p>&copy; 2024 THE SPARKLE. All rights reserved. By C.Dhanush</p>
   </footer>
 
-  <!-- Bootstrap JS -->
+ 
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
